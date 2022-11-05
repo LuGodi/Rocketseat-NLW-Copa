@@ -38,6 +38,33 @@ body.yellow{
 ul{
     list-style:none;
 }
+ul.color-select{
+    display:flex;
+    gap:20px;
+    justify-content: center;
+    transform: translateY(25px);
+    
+    
+}
+ul.color-select li{
+    width:20px;
+    height:20px;
+    border-radius: 100%;
+}
+ul.color-select li:hover{
+    transform: scale(1.1);
+}
+
+ul.color-select li:nth-child(1){
+    background-color:#338AF3;
+}
+ul.color-select li:nth-child(2){
+    background-color: #047C3F;
+}
+ul.color-select li:nth-child(3){
+    background-color:#F7DD43
+}
+
 body{
     background-image: var(--background-image);
     background-color: #121214;

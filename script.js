@@ -4,6 +4,28 @@ console.log("hello!");
 //     weekday:'sexta',
 //     games:[{p1:'brazil',p2:'cameroon',time:"16:00"},{p1:'uruguay',p2:'argentina',time:'8:00'}]
 // }
+const blueLayoutSelect = document.querySelector(
+  "ul.color-select li:nth-child(1)"
+);
+const greenLayoutSelect = document.querySelector(
+  "ul.color-select li:nth-child(2)"
+);
+const yellowLayoutSelect = document.querySelector(
+  "ul.color-select li:nth-child(3)"
+);
+const bodyElement = document.querySelector("body");
+blueLayoutSelect.addEventListener("mouseover", () => {
+  console.log("mouse over blue");
+  bodyElement.className = "blue";
+});
+greenLayoutSelect.addEventListener("mouseover", () => {
+  console.log("mouse over green");
+  bodyElement.className = "green";
+});
+yellowLayoutSelect.addEventListener("mouseover", () => {
+  console.log("mouse over yellow");
+  bodyElement.className = "yellow";
+});
 
 function createGame(player1, player2, time) {
   return `

@@ -40,4 +40,4 @@ Event promoted by Rocketseat learning platform to engage the community and creat
 
 ## 🔖 Layout
 
-The layout for this project its on figma [HERE](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate).
+The layout for this project its on figma [HERE](https://www.figma.com/community/file/1169028052212317700).
