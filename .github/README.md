@@ -22,6 +22,10 @@ Exclusive event promoted by Rocketseat for web technologies.
 <img alt="NLW Copa" src="./mobile.png" width="25%">
 </p>
 
+## 🍳Site
+
+My version here : [Link](https://hopeicanchangemyusername.github.io/Rocketseat-NLW-Copa/)
+
 ## 🚀 Technologies
 
 - HTML e CSS
