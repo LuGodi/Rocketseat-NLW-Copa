@@ -17,9 +17,9 @@ Exclusive event promoted by Rocketseat for web technologies.
 
 <br>
 
-<p>
-  <figure><img alt="NLW Copa" src="./desktop.png" width="47%"><figcaption>desktop version</figcaption></figure>
-  <figure><img alt="NLW Copa" src="./mobile.png" width="25%"><figcaption>mobile version</figcaption></figure>
+<p align="center">
+<img alt="NLW Copa" src="./desktop.png" width="47%">
+<img alt="NLW Copa" src="./mobile.png" width="25%">
 </p>
 
 ## 🚀 Technologies
