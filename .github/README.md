@@ -18,13 +18,19 @@ Exclusive event promoted by Rocketseat for web technologies.
 <br>
 
 <p align="center">
-<img alt="NLW Copa" src="./desktop.png" width="47%">
+<img alt="NLW Copa" src="./desktop.png" width="65%">
 <img alt="NLW Copa" src="./mobile.png" width="25%">
 </p>
 
 ## 🍳Site
 
-My version here : [Link](https://hopeicanchangemyusername.github.io/Rocketseat-NLW-Copa/)
+➡ My version here : [Link](https://hopeicanchangemyusername.github.io/Rocketseat-NLW-Copa/)
+<br>
+<br>
+
+✔ Added the ability to change the layout colors:
+
+`the original project had different colors avaiable but didn't implement an option for the user to change it.`
 
 ## 🚀 Technologies
 
