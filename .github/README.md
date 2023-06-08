@@ -24,7 +24,7 @@ Exclusive event promoted by Rocketseat for web technologies.
 
 ## 🍳Site
 
-➡ My version here : [Link](https://hopeicanchangemyusername.github.io/Rocketseat-NLW-Copa/)
+➡ My version here : [Link](https://lugodi.github.io/Rocketseat-NLW-Copa/)
 <br>
 <br>
 
